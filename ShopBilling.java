@@ -40,30 +40,3 @@ public class ShopBilling {
         System.out.println("Thank you for shopping!");
     }
 }
-
-// output:
-// --- SHOP MENU ---
-// 1. Item 1 (Price: 50)
-// 2. Item 2 (Price: 100)
-// 3. Item 3 (Price: 150)
-// 4. Exit & Print Bill
-// Enter choice: 1
-// Item 1 added!
-
-// --- SHOP MENU ---
-// 1. Item 1 (Price: 50)
-// 2. Item 2 (Price: 100)
-// 3. Item 3 (Price: 150)
-// 4. Exit & Print Bill
-// Enter choice: 2
-// Item 2 added!
-
-// --- SHOP MENU ---
-// 1. Item 1 (Price: 50)
-// 2. Item 2 (Price: 100)
-// 3. Item 3 (Price: 150)
-// 4. Exit & Print Bill
-// Enter choice: 4
-
-// 🧾 Total Bill = 150.0
-// Thank you for shopping!
